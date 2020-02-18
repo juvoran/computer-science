@@ -262,9 +262,9 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites
 `NP-completeness`
 `and more`
 
-Courses | Duration | Prerequisites
+Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Algorithms](https://www.coursera.org/specializations/algorithms) | 80 hours | any programming language, Mathematics for Computer Science
+[Algorithms](https://www.coursera.org/specializations/algorithms) | 16 Weeks | 80 hours | any programming language, Mathematics for Computer Science
 
 
 ### Core applications
